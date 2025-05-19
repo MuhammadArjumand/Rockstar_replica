@@ -4,7 +4,7 @@
 .heading {
     height: 50px;
     width: 100%;
-    background-image: url(top-background.jpg);
+    background-image: url(./images/top-background.jpg);
     background-size: cover;
     color: #91dfec;
     display: flex;
@@ -24,7 +24,7 @@
 .R-img {
     height: 60px;
     width: 50px;
-    background-image: url(R-img.png);
+    background-image: url(./images/R-img.png);
     background-size: cover;
 }
 .anchor-header {
@@ -67,7 +67,7 @@
 .hero {
     height: 600px;
     width: 70%;
-    background-image: url(hero.png);
+    background-image: url(./images/hero.png);
     background-size: cover;
 }
 .asker {
@@ -127,42 +127,42 @@
     border-radius: 15px;
 }
 .box1-img {
-    background-image: url(box1.jpg);
+    background-image: url(./images/box1.jpg);
     background-size: cover;
     border-top-left-radius: 12px;
     border-top-right-radius: 12px;
     height: 500px;
 }
 .box2-img {
-    background-image: url(box2.jpg);
+    background-image: url(./images/box2.jpg);
     background-size: cover;
     border-top-left-radius: 12px;
     border-top-right-radius: 12px;
     height: 500px;
 }
 .box3-img {
-    background-image: url(box3.jpg);
+    background-image: url(./images/box3.jpg);
     border-top-left-radius: 12px;
     border-top-right-radius: 12px;
     background-size: cover;
     height: 500px;
 }
 .box4-img {
-    background-image: url(box4.jpg);
+    background-image: url(./images/box4.jpg);
     border-top-left-radius: 12px;
     border-top-right-radius: 12px;
     background-size: cover;
     height: 500px;
 }
 .box5-img {
-    background-image: url(box5.jpg);
+    background-image: url(./images/box5.jpg);
     border-top-left-radius: 12px;
     border-top-right-radius: 12px;
     background-size: cover;
     height: 500px;
 }
 .box6-img {
-    background-image: url(box6.jpg);
+    background-image: url(./images/box6.jpg);
     border-top-left-radius: 12px;
     border-top-right-radius: 12px;
     background-size: cover;
@@ -185,7 +185,7 @@
     color: white;
 }
 .end {
-    background-image: url('overlay.png'), url('end.png');
+    background-image: url('overlay.png'), url('./images/end.png');
     background-size: contain, cover;
     background-repeat: no-repeat, no-repeat;
     background-position: center, center;
@@ -199,7 +199,7 @@
 .R-end {
     height: 80px;
     width: 70px;
-    background-image: url('logo-glow.png'), url('R-img.png');
+    background-image: url('logo-glow.png'), url('./images/R-img.png');
     background-size: contain, cover;
     background-repeat: no-repeat, no-repeat;
     background-position: center, center;
@@ -306,7 +306,7 @@
     
     .hero {
         width: 100%;
-        background-image: url(hero.png);
+        background-image: url(./images/hero.png);
         background-size: contain;
         background-repeat: no-repeat;
         background-color: black;
@@ -362,7 +362,7 @@
     
     .hero {
         width: 100%;
-        background-image: url(hero.png);
+        background-image: url(./images/hero.png);
         background-size: contain;
         background-repeat: no-repeat;
         background-color: black;
@@ -395,7 +395,7 @@
 @media (min-width: 912px) and (max-width: 1024px) {
     .hero {
         width: 70%;
-        background-image: url(hero.png);
+        background-image: url(./images/hero.png);
         background-size: contain;
         background-repeat: no-repeat;
         background-color: black;
